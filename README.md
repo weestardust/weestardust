@@ -1,4 +1,6 @@
-### Hello, como diriam os gringos!  👋
+### Olá. Hello, como diriam os gringos! 🧙‍
+
+Meu nome é Weslley, me envolvo com programação para não ter que lidar com pessoas. 👨‍💻
 
 <hr>
 
